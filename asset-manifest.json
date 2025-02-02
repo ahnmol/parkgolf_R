@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/parkgolf_R/static/js/main.8e8b51da.js",
+    "main.js": "/parkgolf_R/static/js/main.e6c35918.js",
     "index.html": "/parkgolf_R/index.html",
-    "main.8e8b51da.js.map": "/parkgolf_R/static/js/main.8e8b51da.js.map"
+    "main.e6c35918.js.map": "/parkgolf_R/static/js/main.e6c35918.js.map"
   },
   "entrypoints": [
-    "static/js/main.8e8b51da.js"
+    "static/js/main.e6c35918.js"
   ]
 }
