@@ -17,6 +17,10 @@
   PERFORMANCE OF THIS SOFTWARE.
   ***************************************************************************** */
 
+/*! sheetjs (C) 2013-present SheetJS -- http://sheetjs.com */
+
+/*! xlsx.js (C) 2013-present SheetJS -- http://sheetjs.com */
+
 /**
  * @license React
  * react-dom-server-legacy.browser.production.min.js
